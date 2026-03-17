@@ -1,11 +1,11 @@
 # Sajal Haldar | Security Researcher & Software Engineer 🛡️🤖
 
-> **B.Tech (CSE - Cyber Security)** | **CGPA: 7.64**
-> 
-> *"Bridging the gap between offensive security, machine learning, and Secure Systems."*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%80%9CSystems+are+never+secure%2C+only+less+vulnerable.%E2%80%9D" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Security+Researcher;VAPT+Specialist;Software+Engineer;ML+Enthusiast;GATE+2027+Aspirant" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Security+Researcher;Ethical+Hacker;Software+Engineer;Student;Learning+ML" />
 </p>
 
 <p align="center">
@@ -18,32 +18,62 @@
 
 ## 👤 Professional Profile
 
-I am an **Ethical Hacker** and **Software Engineer** based in Kolkata. My expertise lies in vulnerability research (VAPT) and building automated security tooling. Currently, I am expanding my research into **Computer Vision** and **System Drivers** to explore the security implications of AI and hardware-software interfaces.
+I am an **Ethical Hacker** and **Software Engineer** based in Kolkata. My expertise lies in vulnerability research (VAPT) and building automated security tooling. Currently, I am expanding my knowledge into **Computer Vision** and **System Drivers** to explore the security implications of AI and hardware-software interfaces.
 
 ```yaml
-location: Kolkata, West Bengal, India
-education:
-  - degree: B.Tech in Computer Science (Cyber Security)
-    institution: Budge Budge Institute of Technology
-    affiliation: MAKAUT
-    cgpa: 7.64
-    graduation: 2025
+Location: Kolkata, West Bengal, India
+Education:
+  - Degree: B.Tech in Computer Science (Cyber Security)
+    Institution: Budge Budge Institute of Technology
+    Affiliation: MAKAUT
+    Cgpa: 7.64
+    Graduation: 2026
   
-languages:
-  - English (Professional)
-  - Hindi (Native)
-  - Bengali (Native)
+Languages:
+  - English 
+  - Hindi 
+  - Bengali 
 
-current_focus:
-  - GATE 2027 Preparation
+Current Focus:
+  - Learning Machine Learning
   - Advanced Exploitation Techniques
-  - ML Security Research
   - System Programming
+  
 ```
+## 🛠️ Skills & Tools
 
----
+### Cybersecurity
+![VAPT](https://img.shields.io/badge/VAPT-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=flat-square&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-3C3C3C?style=flat-square&logo=osint&logoColor=white)
 
-### 📊 GitHub Analytics
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Currently Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/CV-000000?style=flat-square&logo=opencv&logoColor=white)
+
+### Systems & Tools
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudo0xSajal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -56,7 +86,7 @@ current_focus:
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sajalhaldar16">
@@ -69,5 +99,12 @@ current_focus:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
 
 ---
