@@ -89,7 +89,7 @@ Current Focus:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sajalhaldar16">
+  <a href="https://linkedin.com/in/sajalhaldar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://sudo0xsajal.github.io">
