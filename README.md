@@ -1,4 +1,4 @@
-# Sajal Haldar | Security Researcher & Software Engineer 🛡️🤖
+# Sajal Haldar | Security Researcher 🛡️🤖
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%80%9CSystems+are+never+secure%2C+only+less+vulnerable.%E2%80%9D" />
@@ -18,7 +18,7 @@
 
 ## 👤 Professional Profile
 
-I am an **Ethical Hacker** and **Software Engineer** based in Kolkata. My expertise lies in vulnerability research (VAPT) and building automated security tooling. Currently, I am expanding my knowledge into **Computer Vision** and **System Drivers** to explore the security implications of AI and hardware-software interfaces.
+I am an **Ethical Hacker** based in Kolkata. My expertise lies in vulnerability research (VAPT) and building automated security tooling. Currently, I am expanding my knowledge into **Computer Vision** and **System Drivers** to explore the security implications of AI and hardware-software interfaces.
 
 ```yaml
 Location: Kolkata, West Bengal, India
